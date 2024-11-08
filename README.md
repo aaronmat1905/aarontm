@@ -1,29 +1,29 @@
-# Aaron TM's Data Science Portfolio:
+# Aaron Thomas Mathew's Data Science Portfolio
 
-<p>
-  Welcome! I’m Aaron Thomas Mathew, an AIML enthusiast with a deep interest in Machine Learning, Deep Learning, and NLP. This portfolio showcases select projects that reflect my journey in data science and AI.
-</p>
+Welcome! I’m Aaron Thomas Mathew, an AIML enthusiast with a strong passion for Machine Learning, Deep Learning, and Natural Language Processing. This portfolio highlights select projects that demonstrate my journey and expertise in data science and AI.
 
-<img src="imgs/gitpfp.jpeg" alt="Profile PIC" width="150" style="border-radius: 50%; float: right; margin-left: 20px;" />
+![Profile PIC](imgs/gitpfp.jpeg){: style="border-radius: 50%; float: right; margin-left: 20px;" width="150" }
 
 ## Education
-- **B.Tech, CSE-AIML** | PES University
+- **B.Tech in Computer Science Engineering with a specialization in AIML** | PES University
 
 ## Projects
-### Synthetic Dataset Generator with Prompt-Based System
-<img src="imgs/DataCraftorLogo.png" alt="Project Screenshot" width="400" />
-Developed a **Gradio-based app** that generates synthetic datasets from structured prompts, allowing users to create datasets tailored to specific requirements. The system leverages an **LLM** to generate and organize data based on the input prompt, facilitating diverse machine learning applications.  
-**[Try it on Hugging Face Spaces](https://huggingface.co/spaces/aaronmat1905/DataCraftor)**
 
-### OCR Model for Handwritten Text Recognition
-Built and trained a deep learning model to recognize handwritten text and convert it to typed text using **TensorFlow**. This model is optimized for high accuracy on custom datasets and enables the digitization of handwritten notes and documents.
+### 1. Synthetic Dataset Generator with Prompt-Based System
+![DataCraftor Logo](imgs/DataCraftorLogo.png){: width="400" }
 
-### Virtual Assistant with Emotion and Gesture Recognition
-Developed a virtual assistant with NLP-driven functionalities, including emotion detection, hand gesture recognition, depth mapping, and image captioning. Integrated **LLMs and computer vision** models to interact with user inputs, providing an engaging and responsive user experience.
+Created **DataCraftor**, a Gradio-based application that generates synthetic datasets using structured prompts. This tool allows users to create datasets tailored to specific requirements, making it versatile for various machine learning applications. The system leverages an **LLM** to generate and organize data based on input prompts.  
+**[Explore it on Hugging Face Spaces](https://huggingface.co/spaces/aaronmat1905/DataCraftor)**
+
+### 2. OCR Model for Handwritten Text Recognition
+Developed and trained a deep learning model for **handwritten text recognition** using **TensorFlow**. This OCR model achieves high accuracy on custom datasets, facilitating the digitization of handwritten notes and documents.
+
+### 3. Virtual Assistant with Emotion and Gesture Recognition
+Designed an interactive **virtual assistant** featuring emotion detection, hand gesture recognition, depth mapping, and image captioning. Integrated **NLP** and **computer vision** models to create a responsive user experience that interprets user inputs in real-time.
 
 ## Skills
-- **Languages**: Python, C
-- **Specializations**: **Natural Language Processing (NLP)**, **LLM Engineering** and **Generative AI with LLMs**
+- **Programming Languages**: Python, C
+- **Core Expertise**: **Natural Language Processing (NLP)**, **LLM Engineering**, **Generative AI with LLMs**
 
 ## Contact
-- **LinkedIn**: [Linkedin](https://www.linkedin.com/in/aarontm19)
+- **LinkedIn**: [linkedin.com/in/aarontm19](https://www.linkedin.com/in/aarontm19)
