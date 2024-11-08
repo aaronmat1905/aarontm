@@ -1,47 +1,29 @@
-# Aaron Thomas Mathew's Data Science Portfolio
+# Aaron TM's Data Science Portfolio:
 
-Welcome! I’m Aaron Thomas Mathew, an AIML enthusiast with a deep interest in Machine Learning, Deep Learning, and NLP. This portfolio showcases select projects and research work that reflect my journey in data science and AI. 
+<p>
+  Welcome! I’m Aaron Thomas Mathew, an AIML enthusiast with a deep interest in Machine Learning, Deep Learning, and NLP. This portfolio showcases select projects that reflect my journey in data science and AI.
+</p>
 
-## 🔗 Website
+<img src="imgs/gitpfp.jpeg" alt="Profile PIC" width="150" style="border-radius: 50%; float: right; margin-left: 20px;" />
 
-Visit the portfolio website: [aaronmathew.github.io](https://aaronmathew.github.io)
+## Education
+- **B.Tech, CSE-AIML** | PES University
 
-## 💼 About Me
+## Projects
+### Synthetic Dataset Generator with Prompt-Based System
+<img src="imgs/DataCraftorLogo.png" alt="Project Screenshot" width="400" />
+Developed a **Gradio-based app** that generates synthetic datasets from structured prompts, allowing users to create datasets tailored to specific requirements. The system leverages an **LLM** to generate and organize data based on the input prompt, facilitating diverse machine learning applications.  
+**[Try it on Hugging Face Spaces](https://huggingface.co/spaces/aaronmat1905/DataCraftor)**
 
-I'm pursuing a BTech in Computer Science with a specialization in AIML at PES University. My work ranges from building AI models to exploring NLP-driven solutions, with a specific focus on:
+### OCR Model for Handwritten Text Recognition
+Built and trained a deep learning model to recognize handwritten text and convert it to typed text using **TensorFlow**. This model is optimized for high accuracy on custom datasets and enables the digitization of handwritten notes and documents.
 
-- **Large Language Models (LLMs)**: Developing NLP applications, prompt engineering, and synthetic data generation.
-- **Deep Learning**: Image captioning, emotion detection, custom CNN architectures.
-- **Machine Learning and Data Science**: Data preprocessing, model building, and analytics.
+### Virtual Assistant with Emotion and Gesture Recognition
+Developed a virtual assistant with NLP-driven functionalities, including emotion detection, hand gesture recognition, depth mapping, and image captioning. Integrated **LLMs and computer vision** models to interact with user inputs, providing an engaging and responsive user experience.
 
-## 📂 Featured Projects
-
-Here are some of the projects highlighted on this portfolio:
-
-### 1. DataCraftor: Synthetic Dataset Generator
-   - **Description**: A prompt-based system to generate synthetic datasets for data augmentation and privacy-preserving analytics.
-   - **Tech Stack**: Python, LLMs, Gradio, pandas.
-   - **Live Demo**: [DataCraftor Demo](#)
-
-### 2. AID for Blind
-   - **Description**: Contributed to a virtual assistant for the visually impaired, adding an LLM to manage functionalities like image captioning, depth mapping, and emotion detection.
-   - **Tech Stack**: Python, NLP, TensorFlow, Generative AI.
-
-### 3. Handwritten Text Recognition (OCR)
-   - **Description**: Built and trained a deep learning model to convert handwritten text into typed text for document digitization.
-   - **Tech Stack**: Python, TensorFlow, Keras, CNNs.
-
-## 🚀 Skills
-
+## Skills
 - **Languages**: Python, C
-- **Frameworks and Libraries**: TensorFlow, Keras, PyTorch, pandas, NumPy
-- **Specializations**: Machine Learning, Deep Learning, NLP, LLM Engineering, Generative AI
+- **Specializations**: **Natural Language Processing (NLP)**, **LLM Engineering** and **Generative AI with LLMs**
 
-## 📫 Contact
-
-I’m open to discussions on Data Science, collaboration, or exploring AI-driven ideas.
-
-- **LinkedIn**: [www.linkedin.com/in/aarontm19](https://www.linkedin.com/in/aarontm19)
-- **HuggingFace**: [www.huggingface.co/aaronmat1905](https://www.huggingface.co/aaronmat1905)
-
-Thank you for visiting!
+## Contact
+- **LinkedIn**: [Linkedin](https://www.linkedin.com/in/aarontm19)
