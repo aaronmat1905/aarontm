@@ -1,9 +1,6 @@
 # Aaron Thomas Mathew's Data Science Portfolio
 
 Welcome! I’m Aaron Thomas Mathew, an AIML enthusiast with a strong passion for Machine Learning, Deep Learning, and Natural Language Processing. This portfolio highlights select projects that demonstrate my journey and expertise in data science and AI.
-
-![Profile PIC](imgs/gitpfp.jpeg){: style="border-radius: 50%; float: right; margin-left: 20px;" width="150" }
-
 ## Education
 - **B.Tech in Computer Science Engineering with a specialization in AIML** | PES University
 
@@ -14,6 +11,13 @@ Welcome! I’m Aaron Thomas Mathew, an AIML enthusiast with a strong passion for
 
 Created **DataCraftor**, a Gradio-based application that generates synthetic datasets using structured prompts. This tool allows users to create datasets tailored to specific requirements, making it versatile for various machine learning applications. The system leverages an **LLM** to generate and organize data based on input prompts.  
 **[Explore it on Hugging Face Spaces](https://huggingface.co/spaces/aaronmat1905/DataCraftor)**
+<iframe
+	src="https://aaronmat1905-datacraftor.hf.space"
+	frameborder="0"
+	width="850"
+	height="450"
+></iframe>
+
 
 ### 2. OCR Model for Handwritten Text Recognition
 Developed and trained a deep learning model for **handwritten text recognition** using **TensorFlow**. This OCR model achieves high accuracy on custom datasets, facilitating the digitization of handwritten notes and documents.
