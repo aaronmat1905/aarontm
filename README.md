@@ -11,12 +11,13 @@ Welcome! I’m Aaron Thomas Mathew, an AIML enthusiast with a strong passion for
 
 Created **DataCraftor**, a Gradio-based application that generates synthetic datasets using structured prompts. This tool allows users to create datasets tailored to specific requirements, making it versatile for various machine learning applications. The system leverages an **LLM** to generate and organize data based on input prompts.  
 **[Explore it on Hugging Face Spaces](https://huggingface.co/spaces/aaronmat1905/DataCraftor)**
-<iframe
-	src="https://aaronmat1905-datacraftor.hf.space"
-	frameborder="0"
-	width="850"
-	height="450"
-></iframe>
+<script
+	type="module"
+	src="https://gradio.s3-us-west-2.amazonaws.com/5.4.0/gradio.js"
+></script>
+
+<gradio-app src="https://aaronmat1905-datacraftor.hf.space"></gradio-app>
+
 
 
 ### 2. OCR Model for Handwritten Text Recognition
