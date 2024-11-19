@@ -2,12 +2,12 @@
 
 Welcome! I’m Aaron Thomas Mathew, an AIML enthusiast with a strong passion for Machine Learning, Deep Learning, and Natural Language Processing. This portfolio highlights select projects that demonstrate my journey and expertise in data science and AI.
 ## Education
-- **B.Tech in Computer Science Engineering with a specialization in AIML** | PES University
+- **B.Tech in CSE-AIML** | PES University
 
 ## Projects
 
 ### 1. Synthetic Dataset Generator with Prompt-Based System
-![DataCraftor Logo](imgs/DataCraftorLogo.png){: width="400" }
+![DataCraftor Logo](imgs/DataCraftorLogo.png){: width="100" }
 
 Created **DataCraftor**, a Gradio-based application that generates synthetic datasets using structured prompts. This tool allows users to create datasets tailored to specific requirements, making it versatile for various machine learning applications. The system leverages an **LLM** to generate and organize data based on input prompts.  
 **[Explore it on Hugging Face Spaces](https://huggingface.co/spaces/aaronmat1905/DataCraftor)**
