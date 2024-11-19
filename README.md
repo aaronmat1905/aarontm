@@ -1,6 +1,6 @@
 # Aaron TM's Data Science Portfolio
 
-![Profile Picture](imgs/gitpfp.jpeg){ width="150", style="border-radius: 50%; border: 2px solid #ccc;" }
+![Profile Picture](imgs/gitpfp.jpeg){ width="500" }
 
 Welcome! I’m **Aaron Thomas Mathew**, an AI/ML enthusiast passionate about **Machine Learning**, **Deep Learning**, and **Natural Language Processing**. This portfolio showcases select projects that highlight my journey and expertise in data science and artificial intelligence.
 
