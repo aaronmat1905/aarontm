@@ -50,6 +50,6 @@ Designed an interactive **virtual assistant** incorporating:
 
 ## Contact  
 - **LinkedIn**: [linkedin.com/in/aarontm19](https://www.linkedin.com/in/aarontm19)
-- **Github**: [github.com/aaronmat1905]
-- **HuggingFace**: [huggingface.co/aaronmat1905]
-- **Other Links**: [https://linktr.ee/AaronTM]
+- **Github**: [github.com/aaronmat1905](https://github.com/aaronmat1905)
+- **HuggingFace**: [huggingface.co/aaronmat1905](https://huggingface.co/aaronmat1905)
+- **Other Links**: [Linktree](https://linktr.ee/AaronTM)
